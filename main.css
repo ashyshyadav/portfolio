@@ -42,7 +42,7 @@ h2 {
 
 .navbar{
   width:100%;
-  postion:fixed;
+  position:fixed;
   display:flex;
   justify-content:space-between;
   align-items:center;
