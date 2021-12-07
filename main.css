@@ -40,7 +40,7 @@ h2 {
 }
 
 
-nav{
+.navbar{
   width:100%;
   postion:fixed;
   display:flex;
